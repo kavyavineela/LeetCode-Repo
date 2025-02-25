@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/kavyavineela/LeetCode-Repo/tree/master/2564-most-profitable-path-in-a-tree) |
+## Database
+|  |
+| ------- |
+| [1327-last-person-to-fit-in-the-bus](https://github.com/kavyavineela/LeetCode-Repo/tree/master/1327-last-person-to-fit-in-the-bus) |
 <!---LeetCode Topics End-->
