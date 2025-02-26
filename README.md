@@ -25,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/kavyavineela/LeetCode-Repo/tree/master/1327-last-person-to-fit-in-the-bus) |
+## Hash Table
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kavyavineela/LeetCode-Repo/tree/master/0030-substring-with-concatenation-of-all-words) |
+## String
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kavyavineela/LeetCode-Repo/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kavyavineela/LeetCode-Repo/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
