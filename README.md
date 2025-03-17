@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/kavyavineela/LeetCode-Repo/tree/master/2308-divide-array-into-equal-pairs) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/kavyavineela/LeetCode-Repo/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Tree
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kavyavineela/LeetCode-Repo/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [2308-divide-array-into-equal-pairs](https://github.com/kavyavineela/LeetCode-Repo/tree/master/2308-divide-array-into-equal-pairs) |
 ## String
 |  |
 | ------- |
@@ -38,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kavyavineela/LeetCode-Repo/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/kavyavineela/LeetCode-Repo/tree/master/2308-divide-array-into-equal-pairs) |
+## Counting
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/kavyavineela/LeetCode-Repo/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
