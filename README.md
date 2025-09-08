@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kavyavineela/LeetCode-Repo/tree/master/0035-search-insert-position) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kavyavineela/LeetCode-Repo/tree/master/2308-divide-array-into-equal-pairs) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/kavyavineela/LeetCode-Repo/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Tree
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/kavyavineela/LeetCode-Repo/tree/master/2308-divide-array-into-equal-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/kavyavineela/LeetCode-Repo/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
