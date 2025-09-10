@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kavyavineela/LeetCode-Repo/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/kavyavineela/LeetCode-Repo/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kavyavineela/LeetCode-Repo/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/kavyavineela/LeetCode-Repo/tree/master/0414-third-maximum-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kavyavineela/LeetCode-Repo/tree/master/2308-divide-array-into-equal-pairs) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/kavyavineela/LeetCode-Repo/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Tree
@@ -67,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kavyavineela/LeetCode-Repo/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/kavyavineela/LeetCode-Repo/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
